@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.12
+VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AC.XamDemo", "AC.XamDemo\AC.XamDemo\AC.XamDemo.shproj", "{1992E036-7E4A-4956-B2BA-4A3E9F9932BD}"
 EndProject
@@ -212,5 +212,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {253C2E71-C643-423F-B374-01FF7F5FDC65}
 	EndGlobalSection
 EndGlobal

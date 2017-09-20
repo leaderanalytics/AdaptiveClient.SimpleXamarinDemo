@@ -9,6 +9,8 @@ namespace AC.XamDemo
 {
 	public partial class App : Application
 	{
+        // https://forums.xamarin.com/discussion/86139/targeting-net-standard
+
         public IContainer Container;
 
         public App ()
