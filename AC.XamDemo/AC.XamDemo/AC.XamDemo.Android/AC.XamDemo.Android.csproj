@@ -58,8 +58,8 @@
     <Reference Include="FormsViewGroup, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.2.3.4.270\lib\MonoAndroid10\FormsViewGroup.dll</HintPath>
     </Reference>
-    <Reference Include="LeaderAnalytics.AdaptiveClient, Version=0.18.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\AdaptiveClient.0.18.0\lib\netstandard2.0\LeaderAnalytics.AdaptiveClient.dll</HintPath>
+    <Reference Include="LeaderAnalytics.AdaptiveClient, Version=0.18.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\AdaptiveClient.0.18.4\lib\netstandard1.3\LeaderAnalytics.AdaptiveClient.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">

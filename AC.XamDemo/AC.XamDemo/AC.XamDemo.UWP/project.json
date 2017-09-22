@@ -1,6 +1,6 @@
 ﻿{
   "dependencies": {
-    "AdaptiveClient": "0.17.2",
+    "AdaptiveClient": "0.18.4",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.4.0",
     "Newtonsoft.Json": "10.0.3",
     "Xamarin.Forms": "2.3.4.270"
